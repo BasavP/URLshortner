@@ -2,3 +2,6 @@ docs
 *.env.*
 __pycache__/
 *.lock
+.env
+AGENTS.md
+LEARNING_PLAN.md
